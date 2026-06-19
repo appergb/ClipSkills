@@ -1,0 +1,41 @@
+MIT License
+
+Copyright (c) 2026 appergb (ClipSkills)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+NOTICE / 说明
+
+The MIT license above covers the ORIGINAL expression in this repository: the
+SKILL.md structure, the Agent decision rules, the orchestration design, the
+FFmpeg/Remotion/Whisper recipes, and the documentation prose.
+
+It does NOT claim ownership over the underlying editing techniques and domain
+knowledge that this skill systematizes. That knowledge is credited to the
+"YingShiJuFeng (影视飓风) — Editing Mastery Course" and to the broader community
+of professional editors and creators; their intellectual property remains with
+the respective owners. This repository is an independent, educational
+re-creation and is not affiliated with or endorsed by any course or vendor.
+
+上述 MIT 许可仅覆盖本仓库的原创表达（SKILL 结构、Agent 决策规则、编排设计、
+FFmpeg/Remotion/Whisper 配方与文档文字），不主张其所系统化的底层剪辑技法与领域
+知识之版权——该知识致谢影视飓风《剪辑全能必修课》及广大专业剪辑创作者，版权归
+各原作者所有。本仓库为独立的学习/研究用途二次创作，与任何课程或厂商无隶属或背书关系。
